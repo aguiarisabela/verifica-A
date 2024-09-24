@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    padding: 8px;
+    margin-bottom: 8px;
+    display: flex;
+}
+
+#explicacao{
+padding: 5px;
+margin-bottom: 10px;
+display: flex;
+}
+
+.container, textarea{
+    display: center;
+    border-radius: 5px;
+    width: 60%;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 20px;}
+
+#mensagem{
+resize: none;
+}
+
+#verificar{
+    display: flex;
+    padding: 5px;
+}
